@@ -17,3 +17,9 @@ h3{
 body{
     background-color: rgb(238, 208, 172);
 }
+footer{
+    height: 500px;
+    background-image: url(/lul/golden\ banana.jpg);
+    background-size:cover;
+    background-position: center;
+}
