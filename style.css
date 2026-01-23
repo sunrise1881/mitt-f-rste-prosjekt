@@ -3,3 +3,24 @@
     margin-right: auto;
     display:block   
 }
+h1 {
+    text-align: center;
+    color: rgb(85, 163, 11);
+}
+body {
+    background-color: rgba(255, 228, 196, 0.329);
+    background-image: url(https://cdn.pixabay.com/photo/2020/06/19/21/48/banana-5318966_1280.jpg)
+
+}
+
+#button {
+    display:flex;
+    flex-direction:column;
+    align-items: flex-start;
+    gap: 10px;
+    margin-left: 30px;
+    
+}
+header {
+    background-color: black;
+}
